@@ -1,0 +1,14 @@
+E:\laisuatchovay\bin\Debug\net8.0\laisuatchovay.exe
+E:\laisuatchovay\bin\Debug\net8.0\laisuatchovay.deps.json
+E:\laisuatchovay\bin\Debug\net8.0\laisuatchovay.runtimeconfig.json
+E:\laisuatchovay\bin\Debug\net8.0\laisuatchovay.dll
+E:\laisuatchovay\bin\Debug\net8.0\laisuatchovay.pdb
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.GeneratedMSBuildEditorConfig.editorconfig
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.AssemblyInfoInputs.cache
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.AssemblyInfo.cs
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.csproj.CoreCompileInputs.cache
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.dll
+E:\laisuatchovay\obj\Debug\net8.0\refint\laisuatchovay.dll
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.pdb
+E:\laisuatchovay\obj\Debug\net8.0\laisuatchovay.genruntimeconfig.cache
+E:\laisuatchovay\obj\Debug\net8.0\ref\laisuatchovay.dll
